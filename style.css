@@ -27,25 +27,7 @@ p {
     line-height: 1.5;
 }
 
-.gallery {
-    margin: 20px;
-}
 
-.images {
-    display: flex;
-    justify-content: center;
-    gap: 20px;
-    flex-wrap: wrap;
-}
 
-.images img {
-    width: 200px;
-    height: auto;
-    border-radius: 10px;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.3);
-    transition: transform 0.3s;
-}
 
-.images img:hover {
-    transform: scale(1.05);
-}
+
